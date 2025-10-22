@@ -53,3 +53,11 @@ body{
     padding: 0 30px;
     line-height: 1.5;
 }
+
+@media (max-width: 400px) {
+    .main{
+        width: 90%;
+        height: auto;
+        margin: 20px auto;
+    }
+}
